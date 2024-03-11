@@ -1,2 +1,2 @@
 # Forms
-# A student registration forms
+# A student registration form
